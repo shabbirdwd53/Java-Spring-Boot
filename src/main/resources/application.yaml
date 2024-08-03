@@ -1,0 +1,9 @@
+custom:
+  yaml:
+    message: Hello External World from External PropertyFile from YAML
+
+
+config:
+  prefix:
+    firstName: Spring
+    lastName: Boot
